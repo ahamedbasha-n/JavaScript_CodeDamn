@@ -1,0 +1,1 @@
+const myFirstVariable = 250
